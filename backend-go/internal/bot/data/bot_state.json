@@ -1,0 +1,26 @@
+{
+  "virtual_balance_sol": 9.49445,
+  "paper_trading": true,
+  "live_wallet_address": "",
+  "rpc_url": "",
+  "slippage_pct": 0,
+  "active_positions": [
+    {
+      "id": "pos_1787091975665106000",
+      "token_address": "TestToken111111111111111111111111111111111111",
+      "symbol": "TEST",
+      "entry_price_usd": 0.0010049999999999998,
+      "highest_price_usd": 0.0010049999999999998,
+      "current_price_usd": 0,
+      "amount_sol": 0.5,
+      "original_amount_sol": 0.5,
+      "token_amount": 74626.8656716418,
+      "original_token_amount": 74626.8656716418,
+      "buy_time": "2026-08-19 00:26:15",
+      "pnl_pct": 0,
+      "pnl_sol": 0,
+      "status": "OPEN"
+    }
+  ],
+  "closed_positions": []
+}
